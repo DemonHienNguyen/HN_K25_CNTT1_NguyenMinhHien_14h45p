@@ -166,4 +166,4 @@ WHERE `customer_id` IN (SELECT `customer_id`
                         WHERE `product_id` IN (SELECT `product_id`
 											   FROM `products`
                                                WHERE `product_name` = 'iPhone 15 Pro Max'));
--- Hết 
+-- Hết  
